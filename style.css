@@ -322,7 +322,8 @@ ul li a:hover{
         height: 180vh
     }
     .form{
-        margin-left: -30px;
+        margin-left: 340px;
+        margin-top: 80px;
         width: 250px;
         height: 380px;
         background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
@@ -373,8 +374,8 @@ ul li a:hover{
         height: 4.5vw;
         font-size: 2vw;
     }
-    .content a{
-        font-size: 2vw;
+    .content a {
+        font-size: 4vw;
     }
     .logo{
         margin-left: 240px;
@@ -413,8 +414,8 @@ ul li a:hover{
         height: 180vh
     }
     .form{
-        margin-left: -30px;
-        width: 250px;
+        margin-left: 30px;
+        margin-top: 70px;
         height: 380px;
         background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
         position: absolute;
@@ -442,6 +443,13 @@ ul li a:hover{
     }
     .form .link a{
         font-size: 16px;
+    }
+    .content .cn {
+        width: 30%;
+        height: 10.5vw;
+    }
+    .content .cn a{
+        font-size: 18px;
     }
 }
 
@@ -490,4 +498,22 @@ ul li a:hover{
     margin-top: -40px;
     margin-left: 38px;
    }
+   .form{
+    margin-left: -60px;
+   }
+   .content .cn a{
+    font-size: 0.8rem;
+   }
+   .content .cn {
+    width: 30%;
+    height: 10.5vw;
+   }
+   .content a {
+    font-size: 5vw;
+    }
+    .content .par {
+        width: 100%;
+        font-size: 2.2vw;
+        margin-top: 30px;
+    }
 }
